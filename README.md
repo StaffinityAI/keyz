@@ -163,8 +163,9 @@ zig build run -- check my.conf
 
 ## Contributing
 
-Work is tracked with git-native issues stored in the repository
-(`refs/issues/*`). See [AGENTS.md](AGENTS.md) for the workflow.
+The full plan (architecture, milestones, decisions, risks) is in
+[docs/PLAN.md](docs/PLAN.md). Work is tracked with git-native issues stored in
+the repository (`refs/issues/*`). See [AGENTS.md](AGENTS.md) for the workflow.
 
 ```sh
 git issue sync origin   # fetch and push issues
